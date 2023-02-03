@@ -1,5 +1,5 @@
 #!/bin/python3
-# got help from QCL mentors and collaborated with students who attended with me
+# got help from QCL mentors and collaborated with students who attended with me yay! collab
 import re
 
 
